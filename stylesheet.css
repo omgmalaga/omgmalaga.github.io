@@ -1,0 +1,57 @@
+h1 {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	text-shadow: rgba(0, 0, 0, 0.5) 0.5px 0.5px 1px;
+	font-size: 60px;
+	font-weight: 900;
+	color: #f8f8f8;
+}
+
+h2 {
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.wide {
+  width:100%;
+  height: 100%;
+  max-height: 500px;
+  background-image:url("banner_malaga.png");
+  background-size:cover;
+  padding: 10%;
+}
+
+.wide h2 {
+	text-align: center;
+	color: #f8f8f8;
+	font-size: 25px;
+	text-shadow: rgba(0, 0, 0, 0.5) 0.5px 0.5px 1px;
+}
+
+.top-bottom-padding {
+	padding: 2em 0;
+}
+
+.row {
+	text-align: justify;
+}
+
+#stream_header {
+	background-image: url("footer.png");
+	width: 100%;
+	text-align: center;
+	padding: 1em;
+	color: #f8f8f8;
+}
+#stream_header h2 {
+	text-align: center;
+	color: #f8f8f8;
+	font-size: 30px;
+	text-shadow: rgba(0, 0, 0, 0.5) 0.5px 0.5px 1px;
+}
+
+#stream_line {
+	text-align: center;
+}
