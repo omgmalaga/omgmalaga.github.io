@@ -55,3 +55,16 @@ h2 {
 #stream_line {
 	text-align: center;
 }
+
+
+@media screen and (max-width:768px) {
+	.container {
+		padding: 0 1em;
+	}
+}
+
+@media screen and (max-width:450px) {
+	h1 {
+		font-size: 50px;
+	}
+}
